@@ -6,3 +6,6 @@ I really, absolutely fucking hate this css. It's so broken that when i change or
 How does this css even work in the first place? I don't know, a miracle.
 
 I just want my discord ui to look pretty ffs
+
+
+I now need to fix another css cause they made ClearVision look fucking ugly LMAO :joy:
